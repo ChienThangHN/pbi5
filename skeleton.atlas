@@ -1,0 +1,24 @@
+skeleton.png
+	size: 1944, 1820
+	filter: Linear, Linear
+	pma: true
+condau
+	bounds: 2, 1588, 179, 228
+pbi duoi
+	bounds: 2, 2, 720, 1083
+	offsets: 0, 0, 720, 1093
+	rotate: 90
+pbi-open
+	bounds: 2, 724, 1931, 1092
+shadow2
+	bounds: 1087, 2, 720, 855
+	offsets: 1, 48, 722, 904
+	rotate: 90
+
+skeleton_2.png
+	size: 724, 420
+	filter: Linear, Linear
+	pma: true
+shadow
+	bounds: 2, 2, 720, 413
+	offsets: 0, 8, 720, 430
